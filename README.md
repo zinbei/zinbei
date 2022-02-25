@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Todo Zinbei Sealion.
+- 👀 I’m interested in information security techniques, especially pseudorandom number generator with high randomness.
+- 🌱 I’m currently learning 
